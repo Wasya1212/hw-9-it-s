@@ -5,7 +5,7 @@
   "homepage": "https://wasya1212.github.io/hw-9-it-s/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /parcel-project-template/"
+    "build": "parcel build src/*.html --public-url /hw-9-it-s/"
   },
   "repository": {
     "type": "git",
